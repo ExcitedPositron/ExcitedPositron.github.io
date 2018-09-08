@@ -16,8 +16,7 @@ Hi, I'm Helena I am a PhD student in accelerator physics. I was born in Czech Re
 </figure>
 
 
-Through this website, I will share random things about science, accelerator physcis, computing and more. Accelerator physics is a field of physics that is not as widely known to general public but it has so many applications. From high energy physics to medical imaging, from life sciences research to industrial applications, there are already thousands o\
-f accelerators around the world.
+Through this website, I will share random things about science, accelerator physcis, computing and more. Accelerator physics is a field of physics that is not as widely known to general public but it has so many applications. From high energy physics to medical imaging, from life sciences research to industrial applications, there are already thousands of accelerators around the world.
 I will share some cool things I learn during my PhD with you because I believe as a scientist, I have a responsibility to make science less obscure. Everyone can understand complex theories and concepts if it is presented well. So I will also add my attempts to become a science communicator.
 
 Feel free to contact me :)

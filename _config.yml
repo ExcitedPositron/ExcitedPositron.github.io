@@ -5,7 +5,7 @@ description:        "Thanks for stopping by to enjoy some fun facts about scienc
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/intro.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://excitedpositron.github.io
@@ -31,27 +31,25 @@ disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:	    UA-115436794-1
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
 email:			helena.pikhartova@gmail.com
-twitter:            	https://twitter.com/ExcitedPositron
-#facebook:           	username
-github-url:		https://github.com/ExcitedPositron
-#stackoverflow:     	username
-linkedin:	    	https://www.linkedin.com/in/helena-pikhartova-b1b29a91/	
+twitter:            	ExcitedPositron
+github-url:		ExcitedPositron
+linkedin:	    	helena-pikhartova-b1b29a91	
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel

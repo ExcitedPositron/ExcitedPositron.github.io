@@ -1,37 +1,32 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, Helena, physics, blog]
+date: 2018-09-08
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+Hi, I'm Helena I am a PhD student in accelerator physics. I was born in Czech Republic bu\
+t lived in United States, Canada, UK, Japan and now in France so if you ask me where is m\
+y home, don't expect a short answer. I am an adventurer, book lover, board game enthousia\
+st and sometimes a cauch potato.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+<figure>
+        <a href="/assets/img/posts/ger.jpg"><img src="/assets/img/posts/ger.jpg"></a>
+        <figcaption>.</figcaption>
+</figure>
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
+Through this website, I will share random things about science, accelerator physcis, comp\
+uting and more. Accelerator physics is a field of physics that is not as widely known to \
+general public but it has so many applications. From high energy physics to medical imagi\
+ng, from life sciences research to industrial applications, there are already thousands o\
+f accelerators around the world.
+I will share some cool things I learn during my PhD with you because I believe as a scien\
+tist, I have a responsibility to make science less obscure. Everyone can understand compl\
+ex theories and concepts if it is presented well. So I will also add my attempts to becom\
+e a science communicator.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Feel free to contact me :)

@@ -3,7 +3,7 @@ layout: post
 title:  "Bubble chamber"
 date:   2018-09-09
 excerpt: "How particles started to appear"
-project: false
+science: true
 tag:
 - detector
 - detectors

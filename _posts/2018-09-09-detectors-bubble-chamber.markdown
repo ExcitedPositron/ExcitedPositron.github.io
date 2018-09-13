@@ -25,7 +25,7 @@ Aparently some of the earliest prototypes used beer as a medium which might have
 The basic principle of bubble chamber is a container filled with a liquid at high pressure above its usual boiling temperature (most commonly used liquid hydrogen). When an electrically charged particle enters the detector, the detector volume is quickly increased, decreasing the pressure at the same time which leads to the liquid entering a superheated stage. A charged particle ionizes the superheated liquid (separates the positive and negative charges of an atom) and the ionization boils off some of the liquid, bubbles appear. Because the detector container is still expanding, the bubbles also increase in size and can be photographed from a camera facing the detector.
 
 <figure class="animated_gif_frame">
-	<img src="/assets/img/posts/bubble0.png" data-source="/assets/img/posts/bubblechamber.gif" width="800" height="450" />
+	<img src="/assets/img/posts/bubblechamber.gif" data-source="/assets/img/posts/bubblechamber.gif" width="800" height="450" />
 </figure>
 
 

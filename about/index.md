@@ -8,7 +8,7 @@ comments: false
     
 
 
-Hi, I'm Helena I am a PhD student in accelerator physics. I was born in Czech Republic but lived in United States, Canada, UK, Japan and now in France so if you ask me where is my home, don't expect a short answer. I am an adventurer, book lover, board game enthousiast and sometimes a cauch potato.
+Hi, I'm Helena I am a PhD student in accelerator physics. I was born in Czech Republic but lived in United States, Canada, UK, Japan and now in France. All of these places made me feel at home for some time. So if you ask me where I'm from, don't expect a short answer. I am an adventurer, book lover, board game enthousiast and sometimes a cauch potato.
 
 <figure>
         <a href="/assets/img/posts/ger.jpg"><img src="/assets/img/posts/ger.jpg"></a>

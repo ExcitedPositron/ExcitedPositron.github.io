@@ -34,7 +34,7 @@ The basic principle of bubble chamber is a container filled with a liquid at hig
 </figure>
 
 
-Bubble chambers were the successors of the cloud chambers. They were used in the discovery of weak neutral currents (<a href="http://inspirehep.net/record/83735">ref</a>) which confirmed the electroweak theory and later led to the discovery of the W and Z bosons. There are some more recent experiment using this technology such as <a href="http://www-coupp.fnal.gov/">COUPP</a>, <a href="http://www.picassoexperiment.ca/">PICASSO</a> and <a href="http://www.picoexperiment.com/">PICO</a>. These are all used for detecting dark matter, the mysterious part of our universe that we know exists but cannot seem to find what it is composed of. There are different detector technologies also hoping to discover dark matter. We can just wait and see which detector will be the one.
+Bubble chambers were the successors of the cloud chambers. They were used in the discovery of weak neutral currents (<a href="http://inspirehep.net/record/83735">ref</a>) which confirmed the electroweak theory and later led to the discovery of the W and Z bosons. There are some more recent experiment using this technology such as <a href="http://www-coupp.fnal.gov/">COUPP</a>, <a href="http://www.picassoexperiment.ca/">PICASSO</a> and <a href="http://www.picoexperiment.com/">PICO</a>. These are all used for detecting dark matter, the mysterious part of our universe that we know exists but cannot seem to find what it is composed of. There are different detector technologies also hoping to discover dark matter. We can only wait and see which detector will be THE ONE.
 
 
 

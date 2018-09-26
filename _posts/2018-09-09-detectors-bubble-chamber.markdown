@@ -25,7 +25,7 @@ Bubble chambers are a really cool piece of technology. They allow us to observe 
         <figcaption>The Big European Bubble Chamber which you can now see at CERN.</figcaption>
 </figure>
 
-Apparently, some of the earliest prototypes used beer as a medium which might have given the bubble chamber its name. I would like to know what prompted Donald A. Glaser to pour some beer into his newly constructed detector. Did he really just not want to share it with some colleagues? Anyway, he soon realised that liquid hydrogen will do much better and his lab could stop smelling like a pub again. 
+Apparently, some of the earliest prototypes used beer as a medium which might have given the bubble chamber its name. I would like to know what prompted Donald A. Glaser to pour some beer into his newly constructed detector. Did he really just not want to share it with some colleagues? Anyway, he soon realised that liquid hydrogen will do much better and his lab could stop smelling like a pub. 
 
 The basic principle of bubble chamber is a container filled with a liquid at high pressure above its usual boiling temperature (most commonly used liquid hydrogen). When an electrically charged particle enters the detector, the detector volume is quickly increased, decreasing the pressure at the same time which leads to the liquid entering a superheated stage. A charged particle ionises the superheated liquid (separates the positive and negative charges of an atom) and the ionisation boils off some of the liquid, bubbles appear. Because the detector container is still expanding, the bubbles also increase in size and can be photographed from a camera facing the detector.
 

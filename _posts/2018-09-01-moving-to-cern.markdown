@@ -19,7 +19,7 @@ Moving to CERN didn't seem like a big deal to me in the first instant. It is jus
 CERN is a great place to be and I love it here! However some things are so different I have to note them here. Lets start with the bad things, not that I like to complain, but it has to be said. First of all, stores are closed on Sunday! Like groceries and all. I have been taking it for granted to go buy food on my day off. No, not ok to do so anymore.
 Also, things are expensive here. Going out for dinner is a thing for the rich and shopping is narrowed to necessities. Living on the boarder with Switzerland influences the price of living.
 
-Now the good things, the landscapes here are amazing. I can see the Alpes and the Jura mountains from work or while spending an evening by the Lake Geneva and it makes me enjoy my life here so much. The nature is really beautiful around here. It also generates infinite possibilities for hiking during weekends.
+Now the good things, the landscapes here are amazing. I can see the Alps and the Jura mountains from work or while spending an evening by the Lake Geneva and it makes me enjoy my life here so much. The nature is really beautiful around here. It also generates infinite possibilities for hiking during weekends.
 
 
 <figure>

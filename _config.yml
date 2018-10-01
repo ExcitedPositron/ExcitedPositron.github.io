@@ -36,12 +36,6 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://excitedpositron.github.io
 
-<ul>
-  {% for menu in site.t[page.lang] %}
-    <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
-  {% endfor %}
-</ul>
-
 
 # Jekyll
 permalink:          /:title/

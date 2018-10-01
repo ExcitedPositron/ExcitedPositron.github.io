@@ -4,7 +4,6 @@ title:  "Bubble chamber"
 date:   2018-09-09
 excerpt: "Did physicists go too far when they filled their detectors with beer?"
 science: true
-lang: en
 tag:
 - detectors
 - physics

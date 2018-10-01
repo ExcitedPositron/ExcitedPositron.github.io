@@ -4,7 +4,6 @@ title:  "Animations"
 date:   2018-09-27
 excerpt: "Couple of my animations for your pleasure :)"
 tech: true
-lang: en
 tag:
 - tech
 - inkscape

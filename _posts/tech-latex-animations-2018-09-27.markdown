@@ -4,7 +4,6 @@ title:  "Cloud chamber"
 date:   2018-09-11
 excerpt: "How to put an animation into your latex slides"
 tech: true
-lang: en
 tag:
 - latex
 - physics

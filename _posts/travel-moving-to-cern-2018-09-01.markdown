@@ -4,7 +4,6 @@ title:  "CERN - moving in longterm"
 date:   2018-09-01
 excerpt: "The big move to CERN."
 travel: true
-lang: en
 tag:
 - CERN
 - physics

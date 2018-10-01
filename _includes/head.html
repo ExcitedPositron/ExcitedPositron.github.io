@@ -1,9 +1,14 @@
     <meta charset="UTF-8">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
-    <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+    <title>{% if page.title %}{{ page.title }} &#8211;{% else %}{{ site.title[page.lang] | escape }} {% endif %}{{ site.title }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}{% for post in posts %}
+  <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />{% endfor %}
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
+  <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />{% endfor %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title[page.lang] }}" href="{{ site.feed[page.lang] | prepend: site.baseurl | prepend: site.url }}">
     <!-- Twitter Cards -->
     {% if page.feature %}{% capture feature %}{{ page.feature }}{% endcapture %}{% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}{{ site.url }}/{{ feature }}{% endcapture %}{% endunless %}
     <meta name="twitter:card" content="summary_large_image">

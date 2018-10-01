@@ -1,14 +1,47 @@
 # Site
-title:              One Excited Positron
-bio:                'Hello :) Join me on the tour of the world and science!'
-description:        "Thanks for stopping by to enjoy some fun facts about science es			pecially physics and escpecially especially (especially^2) accelerator physics!"
-reading_time:       true
+title:
+  en: One Excited Positron
+  cz: Jeden Veselý Pozitron
+t:
+  en:
+    home:
+      name: "Home"
+      url: "/"
+    about:
+      name: "About"
+      url: "/about/"
+    
+  cz:
+    home:
+      name: "Domů"
+      url: "/"
+    about:
+      name: "O me"
+      url: "//"
+bio:
+  en: Hello :) Join me on the tour of the world and science!
+  cz: Ahoj :) Vítejte na cestě po světě a vědě!
+
+description:
+  en: Thanks for stopping by to enjoy some fun facts about science especially physics and escpecially especially (especially^2) accelerator physics!
+  cz: Díky že jste se stavili, můžete si přečíst něco z vědy, konkrétně fyziky a konkrétně konkrétně něco o mých oblíbených urychlovačích!
+index:
+  en: index.html
+  cz: uvod.html
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
 background:         'assets/img/intro.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://excitedpositron.github.io
+
+<ul>
+  {% for menu in site.t[page.lang] %}
+    <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
+  {% endfor %}
+</ul>
+
 
 # Jekyll
 permalink:          /:title/

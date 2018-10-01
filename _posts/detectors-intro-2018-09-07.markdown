@@ -4,6 +4,7 @@ title:  "Detectors!"
 date:   2018-09-08
 excerpt: "Introduction to detector discovery series"
 science: true
+lang: en
 tag:
 - detector
 - detectors

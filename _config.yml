@@ -1,32 +1,32 @@
 # Site
-title:
-  en: One Excited Positron
-  cz: Jeden Veselý Pozitron
-t:
-  en:
-    home:
-      name: "Home"
-      url: "/"
-    about:
-      name: "About"
-      url: "/about/"
-    
-  cz:
-    home:
-      name: "Domů"
-      url: "/domu/"
-    about:
-      name: "O me"
-      url: "/o-me/"
-bio:
-  en: Hello :) Join me on the tour of the world and science!
-  cz: Ahoj :) Vítejte na cestě po světě a vědě!
+#title:
+#  en: One Excited Positron
+#  cz: Jeden Veselý Pozitron
+#t:
+#  en:
+#    home:
+#      name: "Home"
+#      url: "/"
+#    about:
+#      name: "About"
+#      url: "/about/"
+#    
+#  cz:
+#    home:
+#      name: "Domů"
+#      url: "/domu/"
+#    about:
+#      name: "O me"
+#      url: "/o-me/"
+#bio:
+#  en: Hello :) Join me on the tour of the world and science!
+#  cz: Ahoj :) Vítejte na cestě po světě a vědě!
 #description:
 #  en: Thanks for stopping by to enjoy some fun facts about science especially physics and escpecially especially (especially^2) accelerator physics!
 #  cz: Díky že jste se stavili, můžete si přečíst něco z vědy, konkrétně fyziky a konkrétně konkrétně něco o mých oblíbených urychlovačích!
-index:
-  en: index.html
-  cz: uvod.html
+#index:
+#  en: index.html
+#  cz: uvod.html
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
@@ -35,7 +35,11 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://excitedpositron.github.io
 languages: ["en", "cz"]
-
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  en: English
+  cz: Cestina
 
 # Jekyll
 permalink:          /:title/

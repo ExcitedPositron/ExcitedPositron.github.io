@@ -1,23 +1,6 @@
 # Site
-#title:
-#  en: One Excited Positron
+title:  One Excited Positron
 #  cz: Jeden Veselý Pozitron
-#t:
-#  en:
-#    home:
-#      name: "Home"
-#      url: "/"
-#    about:
-#      name: "About"
-#      url: "/about/"
-#    
-#  cz:
-#    home:
-#      name: "Domů"
-#      url: "/domu/"
-#    about:
-#      name: "O me"
-#      url: "/o-me/"
 #bio:
 #  en: Hello :) Join me on the tour of the world and science!
 #  cz: Ahoj :) Vítejte na cestě po světě a vědě!

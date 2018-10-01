@@ -21,10 +21,9 @@ t:
 bio:
   en: Hello :) Join me on the tour of the world and science!
   cz: Ahoj :) Vítejte na cestě po světě a vědě!
-
-description:
-  en: Thanks for stopping by to enjoy some fun facts about science especially physics and escpecially especially (especially^2) accelerator physics!
-  cz: Díky že jste se stavili, můžete si přečíst něco z vědy, konkrétně fyziky a konkrétně konkrétně něco o mých oblíbených urychlovačích!
+#description:
+#  en: Thanks for stopping by to enjoy some fun facts about science especially physics and escpecially especially (especially^2) accelerator physics!
+#  cz: Díky že jste se stavili, můžete si přečíst něco z vědy, konkrétně fyziky a konkrétně konkrétně něco o mých oblíbených urychlovačích!
 index:
   en: index.html
   cz: uvod.html

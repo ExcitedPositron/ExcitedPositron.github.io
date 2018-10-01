@@ -82,6 +82,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-multiple-languages-plugin	
+  - jekyll-i18n
 
 jekyll-mentions:
     base_url: https://github.com

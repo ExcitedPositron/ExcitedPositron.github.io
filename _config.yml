@@ -14,10 +14,10 @@ t:
   cz:
     home:
       name: "Domů"
-      url: "/"
+      url: "/domu/"
     about:
       name: "O me"
-      url: "//"
+      url: "/o-me/"
 bio:
   en: Hello :) Join me on the tour of the world and science!
   cz: Ahoj :) Vítejte na cestě po světě a vědě!

@@ -3,6 +3,7 @@ layout: page
 title: O mě
 tags: [about, Helena, physics, blog]
 date: 2018-09-27
+permalink: /o-me/
 comments: false
 lang: cz
 ---

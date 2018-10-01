@@ -3,6 +3,7 @@ layout: page
 title: About Me
 tags: [about, Helena, physics, blog]
 date: 2018-09-08
+permalink: /about/
 comments: false
 lang: en
 ---

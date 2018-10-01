@@ -1,11 +1,3 @@
----
-layout: page
-title: O mě
-tags: [about, Helena, physics, blog]
-date: 2018-09-27
-permalink: /o-me/
-comments: false
----
     
 Ahoj, jmenuju se Helena a jsem studentkou PhD urychlovačové fyziky. Vyrosla jsem v Praze, ale také jsem žila v USA, v Kanadě, v Anglii, v Japonsku a teď zrovna ve Francii. Je možné, že až si tohle budete číst, tak už budu zase jinde. Ráda cestuju, čtu
 

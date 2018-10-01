@@ -1,12 +1,3 @@
----
-layout: page
-title: About Me
-tags: [about, Helena, physics, blog]
-date: 2018-09-08
-permalink: /about/
-comments: false
----
-    
 
 
 Hi, I'm Helena I am a PhD student in accelerator physics. I was born in Czech Republic but lived in United States, Canada, UK, Japan and now in France. All of these places made me feel at home for some time. So if you ask me where I'm from, don't expect a short answer. I am an adventurer, book lover, board game enthousiast and sometimes a cauch potato.

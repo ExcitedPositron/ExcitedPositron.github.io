@@ -35,7 +35,11 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://excitedpositron.github.io
 languages: ["en", "cz"]
-
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  en: English
+  cz: Cestina
 
 # Jekyll
 permalink:          /:title/

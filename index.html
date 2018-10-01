@@ -1,28 +1,30 @@
----
-layout: home
-title: Home
-comments: false
-ref: index
-lang: en
----
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="{% t site.description %}"/>
+    <meta name="keywords" content="{% t site.keywords %}"/>
+    <title>{% t site.name %} - {% t site.tagline %}</title>
+</head>
+<body>
+    <section id="{% t main.welcomeSection.anchor%}">
+        <div>
+            <h2>{% t main.welcomeSection.heading %}</h2>
+            <p>{% t main.welcomeSection.p1 %}</p>
+        </div>
+    </section>
 
-<div class="home">
+    <footer>
+        <a class="active" href="#">{{ site.languageNames[site.lang] }}</a>
+        {% for lang in site.languageNames %}
+        {% if lang[0] == site.lang %} {% continue %} {% endif %}
+        {% if page.namespace %}
+        <a href="{% tl {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
+        {% else %}
+        <a href="{{ site.baseurl_root }}/{{ lang[0] }}/">{{ lang[1] }}</a>
+        {% endif %}
+        {% endfor %}
+    </footer>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+</body>
+</html>

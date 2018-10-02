@@ -1,5 +1,12 @@
-    
-Ahoj, jmenuju se Helena a jsem studentkou PhD urychlovačové fyziky. Vyrosla jsem v Praze, ale také jsem žila v USA, v Kanadě, v Anglii, v Japonsku a teď zrovna ve Francii. Je možné, že až si tohle budete číst, tak už budu zase jinde. Ráda cestuju, čtu
+---
+title: "About me"
+layout: "page"
+i18n-link: "about"
+comments: false
+date: 2018-09-08
+tags: [about, Helena, physics, blog]
+---    
+
 
 Hi, I'm Helena I am a PhD student in accelerator physics. I was born in Czech Republic but lived in United States, Canada, UK, Japan and now in France. All of these places made me feel at home for some time. So if you ask me where I'm from, don't expect a short answer. I am an adventurer, book lover, board game enthousiast and sometimes a cauch potato.
 

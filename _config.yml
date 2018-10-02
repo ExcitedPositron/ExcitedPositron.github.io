@@ -1,15 +1,5 @@
 # Site
-title:  One Excited Positron
-#  cz: Jeden Veselý Pozitron
-#bio:
-#  en: Hello :) Join me on the tour of the world and science!
-#  cz: Ahoj :) Vítejte na cestě po světě a vědě!
-#description:
-#  en: Thanks for stopping by to enjoy some fun facts about science especially physics and escpecially especially (especially^2) accelerator physics!
-#  cz: Díky že jste se stavili, můžete si přečíst něco z vědy, konkrétně fyziky a konkrétně konkrétně něco o mých oblíbených urychlovačích!
-#index:
-#  en: index.html
-#  cz: uvod.html
+
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
@@ -17,12 +7,6 @@ background:         'assets/img/intro.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://excitedpositron.github.io
-languages: ["en", "cz"]
-exclude_from_localizations: ["assets", "CNAME"]
-defaultLang: en
-languageNames:
-  en: English
-  cz: Cestina
 
 # Jekyll
 permalink:          /:title/
@@ -44,36 +28,13 @@ sass:
 disqus_shortname:   excitedpositron-github-io
 
 # Social
-# if you don't have any of social below, comment the line.
 google:
-  #plus:            #username
-  analytics:	    UA-115436794-1
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
+  analytics:		UA-115436794-1
 email:			helena.pikhartova@gmail.com
 twitter:            	ExcitedPositron
 github-url:		ExcitedPositron
 linkedin:	    	helena-pikhartova-b1b29a91	
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
+#instagram:          	username
 
 # Gems
 gems:
@@ -89,3 +50,47 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+
+timezone: Europe/Geneva
+
+defaults:
+    -
+     scope:
+         path: ""
+     values:
+         author: "Helena Pikhartova"
+         layout: post
+         lang: en
+         base-url: "/"
+    -
+     scope:
+         path: cz
+     values:
+         lang: cz
+         base-url: "/cz/"
+
+# Value to use into url per language
+langs-value:
+    en: ""
+    cz: cz
+
+# Translation
+t:
+    home:
+        en: "Home"
+        cz: "Domu"
+    project:
+        en: "Project"
+        cz: "Projekty"
+    about-me:
+        en: "About me"
+        cz: "O me"
+    contact:
+        en: "Contact"
+        cz: "Kontakt"
+    bieo:
+        en: "Hello :) Join me on the tour of the world and science!"
+        cz: "Ahoj :) Vítejte na cestě po světě a vědě!"
+    desc:
+        en: "Thanks for stopping by to enjoy some fun facts about science especially physics and escpecially especially (especially^2) accelerator physics!"
+        cz: "Díky že jste se stavili, můžete si přečíst něco z vědy, konkrétně fyziky a konkrétně konkrétně něco o mých oblíbených urychlovačích!"

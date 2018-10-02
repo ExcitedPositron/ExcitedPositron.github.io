@@ -7,4 +7,4 @@ permalink: /about/
 permalink_cz: /o-me/
 ---
 
-{% tf about.md %}
+{% t about.md %}

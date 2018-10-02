@@ -88,6 +88,7 @@ DEPENDENCIES
   jekyll-mentions
   jekyll-multiple-languages-plugin
   jekyll-sitemap
+  liquid
 
 BUNDLED WITH
    1.16.4

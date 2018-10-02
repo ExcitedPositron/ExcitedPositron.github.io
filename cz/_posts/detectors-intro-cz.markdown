@@ -10,6 +10,7 @@ tag:
 - physics
 comments: true
 feature: /assets/img/posts/atlas.png
+i18n-link: det-1-translated
 ---
 
 Particle detectors - 

@@ -26,16 +26,22 @@ t:
     home:
         en: "Home"
         cz: "Domu"
-    project:
-        en: "Project"
-        cz: "Projekty"
+    science:
+        en: "Science"
+        cz: "Veda"
+    travel:
+        en: "Travel"
+        cz: "Cestovani"
+    tech:
+        en: "Technology"
+        cz: "Technika"
     about-me:
         en: "About me"
         cz: "O me"
     contact:
         en: "Contact"
         cz: "Kontakt"
-    bieo:
+    bio:
         en: "Hello :) Join me on the tour of the world and science!"
         cz: "Ahoj :) Vítejte na cestě po světě a vědě!"
     desc:

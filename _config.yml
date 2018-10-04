@@ -78,12 +78,12 @@ google:
   analytics:		UA-115436794-1
 email:			helena.pikhartova@gmail.com
 twitter:            	ExcitedPositron
-github-url:		ExcitedPositron
+#github-url:		ExcitedPositron
 linkedin:	    	helena-pikhartova-b1b29a91	
 #instagram:          	username
 
 # Gems
-plugins: [
+plugins_dir: [
   "jekyll-mentions",
   "jekyll-feed",
   "jekyll-sitemap",

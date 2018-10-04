@@ -1,7 +1,7 @@
 ---
 title: "O me"
 layout: "page"
-i18n-link: "about"
+i18n-link: About
 ---
 
 Ahoj, jmenuju se Helena a jsem studentkou PhD urychlovačové fyziky. Vyrosla jsem v Praze, ale také jsem žila v USA, v Kanadě, v Anglii, v Japonsku a teď zrovna ve Francii. Je možné, že až si tohle budete číst, tak už budu zase jinde. Ráda cestuju, čtu

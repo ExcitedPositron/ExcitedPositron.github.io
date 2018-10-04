@@ -25,30 +25,34 @@ langs-value:
 t:
     home:
         en: "Home"
-        cz: "Domu"
+        cz: "Domů"
+    title:
+        en: "One Excited Positron"
+        cz: "Jeden Veselý Pozitron"
     science:
         en: "Science"
-        cz: "Veda"
+        cz: "Věda"
     travel:
         en: "Travel"
-        cz: "Cestovani"
+        cz: "Cestování"
     tech:
         en: "Technology"
         cz: "Technika"
-    about-me:
-        en: "About me"
-        cz: "O me"
+    about:
+        en: "About"
+        cz: "O mě"
     contact:
         en: "Contact"
         cz: "Kontakt"
+    posts:
+        en: "All Posts"
+        cz: "Všechny Články"
     bio:
         en: "Hello :) Join me on the tour of the world and science!"
         cz: "Ahoj :) Vítejte na cestě po světě a vědě!"
     desc:
-        en: "Thanks for stopping by to enjoy some fun facts about science especially physics and escpecially especially (especially^2) accel\
-erator physics!"
-        cz: "Díky že jste se stavili, můžete si přečíst něco z vědy, konkrétně fyziky a konkrétně konkrétně něco o mých oblíbených urychlova\
-čích!"
+        en: "Thanks for stopping by to enjoy some fun facts about science especially physics and escpecially especially (especially^2) accelerator physics, I also write about tech and travel!"
+        cz: "Díky že jste se stavili, můžete si přečíst něco z vědy, konkrétně fyziky a konkrétně konkrétně něco o mých oblíbených urychlovačích, taky nechybí technika a cestování!"
 
 
 

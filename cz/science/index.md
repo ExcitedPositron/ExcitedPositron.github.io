@@ -1,7 +1,7 @@
 ---
 layout: science
-title: All Science
-excerpt: "A List of Science"
+title: Všechna Věda
+excerpt: "Urychlovače, fyzika a možná i víc."
 comments: false
-i18n-link: Science
+i18n-link: science
 ---

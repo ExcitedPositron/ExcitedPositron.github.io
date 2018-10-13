@@ -1,7 +1,7 @@
 ---
 layout: tech
-title: All Technology
-excerpt: "A List of Technology"
+title: Všechna technologie
+excerpt: "Programování, LaTex, Animace a ještě víc.."
 comments: false
-i18n-link: Tech
+i18n-link: tech
 ---

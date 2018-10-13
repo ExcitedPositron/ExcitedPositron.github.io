@@ -1,7 +1,7 @@
 ---
 layout: travel
-title: All Travel
-excerpt: "A List of Travel"
+title: Všechno Cestování
+excerpt: "Zajímavosti z mých cest okolo světa."
 comments: false
-i18n-link: Travel
+i18n-link: travel
 ---

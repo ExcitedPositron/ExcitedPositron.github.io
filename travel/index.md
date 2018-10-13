@@ -1,7 +1,7 @@
 ---
 layout: travel
-title: All travel
+title: All Travel
 excerpt: "A List of Travels"
 comments: false
-i18n-link: Travel
+i18n-link: travel
 ---    

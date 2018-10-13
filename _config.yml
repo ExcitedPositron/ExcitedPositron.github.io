@@ -37,7 +37,7 @@ t:
         cz: "Cestování"
     tech:
         en: "Technology"
-        cz: "Technika"
+        cz: "Technologie"
     about:
         en: "About"
         cz: "O mě"
@@ -48,11 +48,11 @@ t:
         en: "All Posts"
         cz: "Všechny Články"
     bio:
-        en: "Hello :) Join me on the tour of the world and science!"
-        cz: "Ahoj :) Vítejte na cestě po světě a vědě!"
+        en: "Hello :) Join me on a tour of the world and science!"
+        cz: "Ahoj :) Vítejte na cestě po světě s vědou!"
     desc:
         en: "Thanks for stopping by to enjoy some fun facts about science especially physics and escpecially especially (especially^2) accelerator physics, I also write about tech and travel!"
-        cz: "Díky že jste se stavili, můžete si přečíst něco z vědy, konkrétně fyziky a konkrétně konkrétně něco o mých oblíbených urychlovačích, taky nechybí technika a cestování!"
+        cz: "Díky že jste se stavili, můžete si přečíst něco z vědy, konkrétně fyziky a konkrétně konkrétně něco o mých oblíbených urychlovačích, taky nechybí něco z programování a cestování!"
 
 
 

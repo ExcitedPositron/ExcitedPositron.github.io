@@ -4,6 +4,8 @@ title:  "Detektory!"
 i18n-link: det-1-translated
 ---
 
+Částicové detektory -
+Detektory jsou mé oblíbené. Kdybych se nevěnovala urychlovačům, ráda bych pracovala na vývoji detektorů. Jsou od toho, aby změřily vše, co se dá a pracovaly ve všech podmínkách. Používají se ve fyzice ale také ve všemožných aplikacích.
 
 Particle detectors - 
 I love detectors ! They can measure whatever you want them to measure and work in any kinds of conditions and have all sorts of applications. Or course there has always been a push for making better detectors - achieving higher resolution, longer lifetime, measuring as many things at once as possible, etc.

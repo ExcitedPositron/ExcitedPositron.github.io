@@ -5,13 +5,3 @@ lang: cz
 ---
 
 {% assign posts=site.posts | where:"lang", page.lang %}
-
-{% for post in posts %}
-  <article class="list">
-    {% include article-header.html %}
-    <div class="entry">
-      {{ post.excerpt }}
-      <a class="button" href="{{ site.base-url }}{{ post.url }}">Číst víc <i class="fa fa-chevron-right"></i></a>
-    </div>
-  </article>
-{% endfor %}

@@ -54,7 +54,9 @@ t:
         en: "Thanks for stopping by to enjoy some fun facts about science especially physics and escpecially especially (especially^2) accelerator physics, I also write about tech and travel!"
         cz: "Díky že jste se stavili, můžete si přečíst něco z vědy, konkrétně fyziky a konkrétně konkrétně něco o mých oblíbených urychlovačích, taky nechybí něco z programování a cestování!"
 
-
+langs-value:
+    en: ""
+    cz: cz
 
 reading_time:       false
 words_per_minute:   200

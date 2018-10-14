@@ -1,13 +1,26 @@
 ---
 layout: compress
 ---
+
+{% assign postsTrans=site.posts | where:"i18n-link", page.i18n-link | sort: 'lang' %}
+
+{% if postsTrans.size == 0 %}
+  {% assign postsTrans=site.pages | where:"i18n-link", page.i18n-link | sort: 'lang' %}
+{% endif %}
+
+
+
 <!DOCTYPE html>
+<html class="no-js" lang="{{ page.lang }}">
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
   {% include head.html %}
+  {% for postTrans in postsTrans %}
+  <link rel="alternate" hreflang="{{ postTrans.lang }}" href="{{ site.base-url }}{{ postTrans.url }}"/>
+  {% endfor %}
 </head>
 <body>
   {% include nav.html %}

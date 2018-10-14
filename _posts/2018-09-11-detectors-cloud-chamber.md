@@ -4,10 +4,6 @@ title:  "Cloud chamber"
 date:   2018-09-11
 excerpt: "Cloud chambers are some of the most satisfying particle detectors. You can observe particles in real time with your own eyes, how cool is that?"
 science: true
-tag:
-- detectors
-- physics
-- particles
 comments: true
 feature: /assets/img/posts/bubble1.png
 ---

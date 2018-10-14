@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Detektory!"
+title:  "Detectors!"
 i18n-link: det-1-translated
 date:   2018-09-08
 excerpt: "Introduction to detector discovery series"

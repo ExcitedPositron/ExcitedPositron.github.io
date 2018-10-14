@@ -1,17 +1,9 @@
 ---
 layout: post
-title:  "Detectors!"
-date:   2018-09-08
-excerpt: "Introduction to detector discovery series"
-science: true
-tag:
-- detector
-- detectors
-- physics
-comments: true
-feature: /assets/img/posts/atlas.png
+title:  "Detektory!"
 i18n-link: det-1-translated
 ---
+
 
 Particle detectors - 
 I love detectors ! They can measure whatever you want them to measure and work in any kinds of conditions and have all sorts of applications. Or course there has always been a push for making better detectors - achieving higher resolution, longer lifetime, measuring as many things at once as possible, etc.

@@ -81,6 +81,9 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
+syntax-highlighting:
+  enabled : true
+  css: syntax.css
 
 # Comments
 disqus_shortname:   excitedpositron-github-io

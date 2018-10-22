@@ -10,8 +10,7 @@ tag:
 comments: true
 ---
 
-bubble chamber:
-
+Bubble Chamber:
 
 <figure class="animated_gif_frame">
         <img src="/assets/img/posts/2018-09-09-bubble/bubblechamber.gif" data-source="/assets/img/posts/2018-09\

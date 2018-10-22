@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cool Bullet Points LaTex"
+title:  "Cool Bullet Points in LaTex"
 date:   2018-10-22
 excerpt: "If you are bored of the generic circle or dash as a bullet point and want to give your presentation some personality."
 tech: true
@@ -8,7 +8,7 @@ tag:
 - latex
 - physics
 comments: true
-feature: /assets/img/posts/bubble1.png
+feature: /assets/img/posts/comp.png
 ---
 
 First we start from a basic beamer setup:
@@ -23,13 +23,7 @@ First we start from a basic beamer setup:
 \end{frame}
 \end{document}
 {% endhighlight %}
-
-Here is how it looks like:
-<figure>
-        <a href="/assets/img/posts/bullet1.png"><img src="/assets/img/posts/bullet1.png"></a>
-        <figcaption>Basic beamer bullet point.</figcaption>
-</figure>
-
+     
 Now, first we need to add some latex packages (enumitem and pifont) and then we can try it out. I also like to change the color of my bullet points, so I will define a color pink (you can use the generic latex colors as well). Main work is 
 
 {% highlight text %}
@@ -49,10 +43,12 @@ Now, first we need to add some latex packages (enumitem and pifont) and then we 
 
 And check out the difference:
 
-<figure>
-        <a href="/assets/img/posts/bullet2.png"><img src="/assets/img/posts/bullet2.png"></a>
-        <figcaption>Updated beamer with airplane bullet point.</figcaption>
+<figure class="half">
+	<img src="/assets/img/posts/bullet1.png">
+        <img src="/assets/img/posts/bullet2.png">
+        <figcaption>Before and after defining a cool bullet point.</figcaption>
 </figure>
+
 
 To use it multiple times in your document, you will have to include the [label= ..] after each \begin{itemize}. Here I used number 40 which is a plane, but there are loads of other cool characters, just pick your favorite.
 
@@ -62,3 +58,4 @@ To use it multiple times in your document, you will have to include the [label= 
 </figure>
 
 I use number 93 in all of my presentations these days.
+

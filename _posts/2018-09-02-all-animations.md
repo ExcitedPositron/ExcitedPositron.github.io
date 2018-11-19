@@ -10,6 +10,8 @@ tag:
 comments: true
 ---
 
+This page is a collection of my animations, made in inkscape. If you like any of them, use them as much as you like.
+
 Bubble Chamber:
 
 <figure class="animated_gif_frame">

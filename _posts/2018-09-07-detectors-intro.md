@@ -20,4 +20,11 @@ During my graduate studies, I had a class on detectors in high energy physics an
 
 Anyway, I would like to start a little blog series on particle detectors with things like history, use and later applications in industry. It will be a great journal for myself and if anyone else is reading - welcome and let me know if you have any comments or questions.
 
-Ok lets start with a detector number one - bubble chamber!
+Ok lets start with a detector number one - bubble chamber:
+
+<a href="https://excitedpositron.github.io/detectors-bubble-chamber/" class="btn zoombtn">Bubble Chamber</a>
+
+Part number 2:
+<a href="https://excitedpositron.github.io/detectors-cloud-chamber/" class="btn zoombtn">Cloud Chamber</a>
+
+

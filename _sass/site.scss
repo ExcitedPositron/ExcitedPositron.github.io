@@ -220,3 +220,47 @@ header .entry-meta {
         background-position: center;
     }
 }
+
+
+
+.cover-banner {
+    @include transition(.5s);
+    @media #{$small} {
+        background-image: none !important;
+    }
+    @media #{$medium} {
+        position: center;
+        color: white;
+        padding: 4em;
+        margin-left: -4rem;
+        margin-right: -4rem;
+        margin-top: -2rem;
+        border-radius: 3px 3px 0 0;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        background-size: cover;
+        background-color: rgba($black, 0.6);
+        background-blend-mode: multiply;
+    }
+        @media #{$notsmall} {
+        position: center;
+        color: white;
+        height: 500px;
+        padding: 15em;
+        margin-left: -4rem;
+        margin-right: -4rem;
+        margin-top: -2rem;
+        //overflow: visible;                                                                                                                             
+        //left: 0;                                                                                                                                       
+        //right: -8rem;                                                                                                                                  
+        //margin-top: 2rem;                                                                                                                              
+        border-radius: 3px 3px 0 0;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        background-size: cover;
+        background-color: rgba($black, 0.6);
+        background-blend-mode: multiply;
+    }
+}

@@ -3,7 +3,7 @@ layout: post
 title:  "CERN - moving in longterm"
 date:   2018-09-01
 excerpt: "The big move to CERN."
-travel: true
+life: true
 tag:
 - CERN
 - physics

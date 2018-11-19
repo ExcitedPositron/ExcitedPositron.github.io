@@ -32,9 +32,9 @@ t:
     science:
         en: "Science"
         cz: "Věda"
-    travel:
-        en: "Travel"
-        cz: "Cestování"
+    life:
+        en: "Life"
+        cz: "Život"
     tech:
         en: "Technology"
         cz: "Technologie"

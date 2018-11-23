@@ -15,39 +15,39 @@ layout: compress
   {% endfor %}
 </head>
 <body>
-  {% include nav.html %}
+  {% include navcz.html %}
   <!-- Header -->
   <header class="header" role="banner">
     <div class="wrapper animated fadeIn">
       <div class="content">
         <div class="post-title">
           <h1>{{ page.title }}</h1>
-          <a class="btn zoombtn" href="{{site.url}}"><i class="fa fa-home"></i></a>
+          <a class="btn zoombtn" href="{{site.url}}/cz"><i class="fa fa-home"></i></a>
         </div>
         <div class="post-list">
-          {% for post in site.posts %} 
-          {% if post.tech  %}
+          {% for post in site.posts %}
+	  {% if post.techcz  %}
           <ul>
             <li class="wow fadeInLeft" data-wow-duration="1.5s">
               <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
               <p>{{ post.excerpt }}</p>
-              <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+              <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Číst celé</a>
             </li>
           </ul>
-          {% else if post.life %}
+          {% else if post.lifecz %}
           <ul>
             <li class="wow fadeInLeft" data-wow-duration="1.5s">
               <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
               <p>{{ post.excerpt }}</p>
-              <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+              <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Číst celé</a>
             </li>
           </ul>
-          {% else if post.science %}
+          {% else if post.sciencecz  %}
           <ul>
             <li class="wow fadeInLeft" data-wow-duration="1.5s">
               <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
               <p>{{ post.excerpt }}</p>
-              <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read more</a>
+              <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Číst celé</a>
             </li>
           </ul>
           {% endif %}

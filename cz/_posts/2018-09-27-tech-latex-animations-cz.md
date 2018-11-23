@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Animations in LaTex"
+title:  "Animace v LaTexu"
 date:   2018-09-11
 excerpt: "How to move your latex slides"
-tech: true
+techcz: true
 tag:
 - latex
 - physics

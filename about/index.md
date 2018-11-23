@@ -1,7 +1,7 @@
 ---
 title: "About me"
-layout: page
-i18n-link: about
+layout: "page"
+i18n-link: "about"
 comments: false
 date: 2018-09-08
 tags: [about, Helena, physics, blog]

@@ -1,4 +1,7 @@
 # Site
+url: "https://excitedpositron.github.io/"
+github-url: "https://github.com/ExcitedPositron/excitedpositron.github.io"
+#base-url: ""
 
 defaults:
     -
@@ -6,15 +9,15 @@ defaults:
          path: ""
      values:
          author: "Helena Pikhartova"
-         layout: post
+         #layout: post
          lang: en
-         base-url: "/"
+         #base-url: "/"
     -
      scope:
          path: cz
      values:
          lang: cz
-         base-url: "/cz/"
+         #base-url: "/cz/"
 
 # Value to use into url per language
 langs-value:
@@ -64,10 +67,10 @@ logo:               'assets/img/logo.jpg'
 background:         'assets/img/intro.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://excitedpositron.github.io
+#url:                https://excitedpositron.github.io
 
 # Jekyll
-permalink:          /:title/
+#permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -93,7 +96,7 @@ google:
   analytics:		UA-115436794-1
 email:			helena.pikhartova@gmail.com
 twitter:            	ExcitedPositron
-#github-url:		ExcitedPositron
+github-url:		ExcitedPositron
 linkedin:	    	helena-pikhartova-b1b29a91	
 #instagram:          	username
 
@@ -106,8 +109,8 @@ plugins_dir: [
   "jekyll-i18n"
 ]
 
-jekyll-mentions:
-    base_url: https://github.com
+#jekyll-mentions:
+#    base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

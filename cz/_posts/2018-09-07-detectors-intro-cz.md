@@ -2,6 +2,15 @@
 layout: post
 title:  "Detektory!"
 i18n-link: det-1-translated
+sciencecz: true
+comments: true
+date:   2018-09-08
+excerpt: "Úvod do série o detektorech"
+tag:
+- physics
+- detector
+- detectors
+feature: /assets/img/posts/cern2.jpg
 ---
 
 Částicové detektory -

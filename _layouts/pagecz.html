@@ -15,14 +15,14 @@ layout: compress
     {% endfor %}
 </head>
 <body>
-    {% include nav.html %}
+    {% include navcz.html %}
     <!-- Header -->
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>
-                    <a class="btn zoombtn" href="{{site.url}}"><i class="fa fa-chevron-left"></i></a>
+                    <a class="btn zoombtn" href="{{site.url}}/cz/"><i class="fa fa-chevron-left"></i></a>
                 </div>
                 {{ content }}
             </div>

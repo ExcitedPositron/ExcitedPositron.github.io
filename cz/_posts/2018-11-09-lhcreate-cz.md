@@ -2,8 +2,8 @@
 layout: post
 title:  "LHCreate"
 date:   2018-11-09
-excerpt: "A two day hackaton to design a physics classroom exhibition. Read about how much fun it was!"
-life: true
+excerpt: "Dvoudenní hackathon zaměřený na vytvoření fyzikální prezentace pro školy. Přečtěte si, jaké to bylo!"
+lifecz: true
 tag:
 - CERN
 - physics

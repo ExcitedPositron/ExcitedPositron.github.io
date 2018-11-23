@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Cool Bullet Points in LaTex"
+title:  "Super body v LaTexu"
 date:   2018-10-22
 excerpt: "If you are bored of the generic circle or dash as a bullet point and want to give your presentation some personality."
-tech: true
+techcz: true
 tag:
 - latex
 - physics

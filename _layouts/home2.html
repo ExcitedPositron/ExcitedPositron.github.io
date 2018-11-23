@@ -2,17 +2,7 @@
 layout: compress
 ---
 
-{% assign postsTrans=site.posts | where:"i18n-link", page.i18n-link | sort: 'lang' %}
-
-{% if postsTrans.size == 0 %}
-  {% assign postsTrans=site.pages | where:"i18n-link", page.i18n-link | sort: 'lang' %}
-{% endif %}
-
-{% assign posts=paginator.posts | where:"lang", page.lang %}
-
-
 <!DOCTYPE html>
-<html class="no-js" lang="{{ page.lang }}">
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
@@ -24,12 +14,12 @@ layout: compress
   {% endfor %}
 </head>
 <body>
-  {% include nav.html %}
+  {% include navcz.html %}
   <!-- Header -->
   <header class="header flex" role="banner">
     <div class="container animated fadeIn">
       <div class="row">
-        <a href="{{ site.url }}"><img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn"></a>
+        <a href="{{ site.url }}"><img src="/assets/img/logo.jpg" class="img-circle zoombtn animated rotateIn"></a>
         <h3 class="title">
           <a class="zoombtn" href="{{ site.url }}"><p style="font-size:1.2rem;font-weight:300">{{ page.title }}</p></a>
         </h3>
@@ -41,11 +31,11 @@ layout: compress
         {% include social-links.html %}
         <hr class="hr-line">
         <h3 class="title">
-          <a class="btn zoombtn" href="{{ site.url }}/about">{{ site.t['about'][page.lang] }}</a>
-          <a class="btn zoombtn" href="{{ site.url }}/science">{{ site.t['science'][page.lang] }}</a>
-	  <a class="btn zoombtn" href="{{ site.url }}/tech">{{ site.t['tech'][page.lang] }}</a>
-          <a class="btn zoombtn" href="{{ site.url }}/life">{{ site.t['life'][page.lang] }}</a>
-          <a class="btn zoombtn" href="{{ site.url }}/posts">{{ site.t['posts'][page.lang] }}</a>
+          <a class="btn zoombtn" href="{{ site.url }}/cz/about">{{ site.t['about'][page.lang] }}</a>
+          <a class="btn zoombtn" href="{{ site.url }}/cz/sciencecz">{{ site.t['science'][page.lang] }}</a>
+	  <a class="btn zoombtn" href="{{ site.url }}/cz/techcz">{{ site.t['tech'][page.lang] }}</a>
+          <a class="btn zoombtn" href="{{ site.url }}/cz/lifecz">{{ site.t['life'][page.lang] }}</a>
+          <a class="btn zoombtn" href="{{ site.url }}/cz/posts">{{ site.t['posts'][page.lang] }}</a>
         </h3>
       </div>
     </div>

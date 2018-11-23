@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Animations"
+title:  "Animace"
 date:   2018-09-02
 excerpt: "Couple of my animations for your pleasure :)"
-tech: true
+techcz: true
 tag:
 - tech
 - inkscape

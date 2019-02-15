@@ -1,38 +1,33 @@
 ---
-layout: post
+layout: postcz
 title:  "LHCreate"
 date:   2018-11-09
-excerpt: "Dvoudenní hackathon zaměřený na vytvoření fyzikální prezentace pro školy. Přečtěte si, jaké to bylo!"
+excerpt: "Dvoudenní hackathon zaměřený na vytvoření fyzikální prezentace pro školy. Jak jsem v soutěži dopadla?"
 lifecz: true
-tag:
-- CERN
-- physics
-- outreach
-- accelerators
-- life
 comments: true
 feature: /assets/img/posts/2018-11-09_lhcreate/affiche.png
-i18n-link: lhcreate-translated
 ---
 
-I would like to write to you about an event I attended and really enjoyed because it combines, science outreach, CERN, design, prototyping, arduinos and fun! I am talking about LHCreate.
+Chtěla bych Vám napsat o jedné soutěži, kterou jsem absolvovala a která byla naprosto skvělá, protože dokázala zkombinovat vědu, její popularizaci, CERN, design, prototypování, programování a zábavu! Mluvím o LHCreate.
 
-LHCreate is a 2-day outreach hackathon and workshop. The aim is to create an exhibit showing off what CERN does and how in a fun and creative way. This year's edition took place 18 - 19 October 2018 at the CERN IdeaSquare, a unique space dedicated to knowledge transfer and experimental innovation (I wish I could work in IdeaSquare all the time, it is such a cool place).
-The central theme of this 4th edition of LHCreate was to take CERN science to classrooms. As such, the goal was to design the prototype of a science exhibit which could be rebuilt by 12 to 18 years old students, in their classroom, and used to explain scientific concepts.
+LHCreate je dvoudenní vědecký hackathon a workshop. Cílem je vytvořit exhibici předvádějící nějaký aspekt vědy nebo technologie vytvářené v CERNu a to kreativně a zábavně. Tento rok se tato soutěž konala 18-19 října 2018 v CERNu v místě stvořeném přímo na rychnlou výrobu prototypů - IdeaSquare. Je to opravdu unikátní místo vytvořeném pro předávání informací a zkušeností získaných při výzkumu v CERNu ven pro využití v průmyslu. Je to taky super místo na práci, celá budova je postavená aby stimulovala týmovou práci a kreativní myšlení.
+Hlavní myšlenka této čtvrté edice LHCreate byla přinést výzkum do škol. Za úkol bylo vymyslet prototyp vědecké demonstrace, která se dá poté postavit 12ti- až 18ti-letými studenty v jejich školách a použít v jejich hodinách jako pomůcku při vyučování.
 
 <figure>
         <img src="/assets/img/posts/2018-11-09_lhcreate/poster.png">
         <figcaption></figcaption>
 </figure>
 
-A total of four team were competing, each made up of six people having different professional backgrounds (including physicists, engineers, design students) with a wide diversity of gender and nationality. The teams were given 33 hours to brainstorm ideas and put together a working prototype. Mentors were available for support at all times during the competition. Mentors were teachers from local schools, electrical experts, physicists, machinists and others. 
+Zůčastnili se čtyři týmy, každý stvořený z členů s rozdílnými profesemi a zkušenostmi. Například v týmu č.2 (můj tým), byl jeden mechanický inženýr, jeden programátor, dva studenti designu, jedna studentka ekonomie a já jako studentka fyziky a jediný výzkumník našeho týmu. Všichni jsme dostali 33 hodin na přemýšlení a přípravu našeho prototypu. V průběhu obou dnů jsme měli k dispozici experty z řady fyziků, inženýrů, strojařů a učitelů z místních škol. Na konci druhého dne se všechny prototypy představili při veřejné prezentaci a následovalo hlasování a vyhlášení výsledků.
 
-I represented my university at LHCreate as a member of Team 2. My team designed the "Synchro CERN Game" and guess what, we won!!!
+Nebudu Vás více napínat, neskutečné se stalo skutečným a náš tým číslo 2 vyhrál!!!
 
 <figure>
         <img src="/assets/img/posts/2018-11-09_lhcreate/team.jpg">
         <figcaption></figcaption>
 </figure>
+
+Vyhráli jsme s načím prototypem "Synchro CERN game"
 
 The Synchro CERN game is based on the operation of a real synchrotron (a type of particle accelerator where particle beam travels around a fixed circular path). The game involves up to six people, one controller and five operators, each at the command of one station. Each station is responsible of different parameters that drive the virtual synchrotron. The players must work together in order to successfully collide particles and potentially achieve a physics discovery. The different parameters controlled by the players  are the system temperature, the beam pipe pressure, the acceleration strength, the bending magnets strength and focusing magnets strength. As the total power of the whole system is limited, these parameters must be fine tuned individually at different times during the course of a game. The synchrotron beam collides when the players find the ideal combination of parameters. Upon success, a holograph located on top of the machine shows a diagram of the particle collisions.
 

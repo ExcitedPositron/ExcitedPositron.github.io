@@ -1,66 +1,63 @@
 ---
-layout: post
-title:  "Super body v LaTexu"
+layout: postcz
+title:  "Super odrážky v LaTexu"
 date:   2018-10-22
-excerpt: "If you are bored of the generic circle or dash as a bullet point and want to give your presentation some personality."
+excerpt: "Už žádné nudné pomlčky nebo kolečka, odrážky taky můžou mít osobnost."
 techcz: true
-tag:
-- latex
-- physics
 comments: true
 feature: /assets/img/posts/comp.png
-i18n-link: bullet-tr
 ---
 
-First we start from a basic beamer setup:
+Jsme zpět u mého oblíbeného latexu. Tentokrát vám chci ukázat jak vyměnit nudné body a pomlčky za slumíčka, kytičky nebo letadlo. Proč? No jen tak a navíc každá prezentace přeci může vypadat dobře a osobitě. Tak jak na to? Začneme z jednoduchého beamer dokumentu: 
 
 {% highlight text %}
 \documentclass[]{beamer}
 \begin{document}
 	\begin{frame}{}
 	\begin{itemize}
-		\item Generic bullet point 
+		\item Obyčejná pomlčka
 	\end{itemize}
 \end{frame}
 \end{document}
 {% endhighlight %}
-     
-Now, first we need to add some latex packages (enumitem and pifont) and then we can try it out. I also like to change the color of my bullet points, so I will define a color pink (you can use the generic latex colors as well). Main work is 
+
+Nejdřív si musíme přidat účelové knihovny latexu (konkrétně enumitem a pifont) a hned to můžeme vyzkoušet. Já si taky ráda měním barvu svých pomlček, takže nejdřív definuji růžovou barvu (buď můžu použít už definované latexové barvy nebo použít jakoukoliv RGB barvu). Tady to je všechno hezky pohromadě:
 
 {% highlight text %}
 \documentclass[]{beamer}
-\usepackage{enumitem}			% This package provides user control over the layout of the three basic list environments: enumerate, itemize and description. 
-\usepackage{pifont}			% Gives you the access to PostScript standard Symbol and Dingbats fonts.
-\definecolor{pink}{RGB}{174,26,100}	% You can pick whichever color you like, just put in its RBG values.
+\usepackage{enumitem}			% Tento balíček poskytuje ovládání tří zákládních prostředí: enumerate, itemize a description.
+\usepackage{pifont}			% Na přístup k PostScript symbolům a Dingbats písmům.
+\definecolor{pink}{RGB}{174,26,100}	% Můžete zadat jakoukoliv barvu, stačí zadat RGB hodnoty.
 
 \begin{document}
 	\begin{frame}{}
-	\begin{itemize}[label={\color{pink}\Pifont{pzd}{\char40}}]	% Here you just select your color and then the number of pifont character you want to use as your bullet.
-		\item Cool bullet 
+	\begin{itemize}[label={\color{pink}\Pifont{pzd}{\char40}}]	% Tady jenom zadejte svojí vybranou barvu a číslo symbolu pifont které si přejete použít jako pomlčku.
+		\item Zajímavá pomlčka
 	\end{itemize}
 \end{frame}
 \end{document}
 {% endhighlight %}
 
-And check out the difference:
+A máme to. Jen se podívejte na rozdíl:
 
 <figure class="half">
 	<img src="/assets/img/posts/bullet1.png">
         <img src="/assets/img/posts/bullet2.png">
-        <figcaption>Before and after defining a cool bullet point.</figcaption>
+        <figcaption>Před a po použití zajímavé pomlčky.</figcaption>
 </figure>
 
-
-To use it multiple times in your document, you will have to include the [label= ..] after each \begin{itemize}. Here I used number 40 which is a plane, but there are loads of other cool characters, just pick your favorite.
+Abyste to použili v dokumentu několikrát, musíte vždy přípojit [label= ..] po každém \begin{itemize}. Tady jsem použila pomlčku číslo 40, což je letadlo, ale můžete si vybrat ze stovky neotřelých symbolů, záleží jen na vás.
 
 <figure>
         <a href="/assets/img/posts/pifont.png"><img src="/assets/img/posts/pifont.png"></a>
-        <figcaption>Pifont symbols.</figcaption>
+        <figcaption>Pifont symboly.</figcaption>
 </figure>
 
-I use number 93 in all of my presentations these days. As I have it saved in my basic presentation layout, I don't need to remember all this or search on google every time I make a presentation, my bullet points always come out as pretty flowers (but still quite subtle). I hope you enjoy them as much as I do :)
+Já používám číslo 93 prakticky ve všech prezentacích, ať jde o pracovní prezentace nebo prezentace pro veřejnost. Mám to uložené jako šablonu ve svém editoru, takže si to nemusím pamatovat nebo pokaždé vyhledávat na internetu. Tak snad si je užijete tak jako já :)
+
+Jaká je vaše oblíbená pomlčka? Je to obyčejné kolečko/pomlčka nebo něco osobitějšího?
 
 <figure>
         <img src="/assets/img/posts/pres.png"></a>
-        <figcaption>Example of my presentation.</figcaption>
+        <figcaption>Ukázka mojí prezentace.</figcaption>
 </figure>

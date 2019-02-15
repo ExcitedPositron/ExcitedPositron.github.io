@@ -1,31 +1,22 @@
 ---
-layout: post
-title:  "CERN - moving in longterm"
+layout: postcz
+title:  "Stěhování do CERNu"
 date:   2018-09-01
-excerpt: "The big move to CERN."
+excerpt: "Jak jsem se přestěhovala z Londýna do Ženevy a co tu dělám?"
 lifecz: true
-tag:
-- CERN
-- physics
-- particles
-- accelerators
-- travel
 comments: true
 feature: /assets/img/posts/cern2.jpg
-i18n-link: cern-1-tr
 ---
+Stěhování do CERNu mi nejdřív nepřipadalo jako nějaká velká záležitost. Přeci jenom jsem se předtím přestěhovala z Kanady do Anglie, takže z Anglie do Švýcarska je to přeci mnohem blíž a navíc mám auto. Prostě pohoda. No, už jsem tu jeden měsíc a moje květiny se ještě nevzpamatovaly z přesunu. Jedna už umřela úplně.
 
-Moving to CERN didn't seem like a big deal to me in the first instant. It is just living in a new country and I have done that many times over the past few years, so it shouldn't be so hard, right? Well I am here for over a month now and few of my plants haven't yet recovered from the move. One of them died already.
+CERN je skvělý místo a děsně se mi tu líbí. Ale! Teď si trochu postěžuju, ale musí to být. Zaprvé, v neděli je všechno zavřený. Chcete si jít nakoupit jídlo na příští týden? Smůla.. Máte volno tak chcete jít nakupovat? Haha, v neděli se přeci nic nedělá. Prostě volný den se stráví buď úklidem, prací, nebo při dobrém počasí na horách. Za druhé, všechno je tu děsně drahé. Vyrazit si na večeři je věc pro bohaté a nakupování se musí omezit na nutnosti. Sice bydlím ve Francii (což alespoň znamená levnější ceny bytů), ale bydlení na hranici se Švýcarskem ovlivňuje cenu živobytí.
 
-CERN is a great place to be and I love it here! However some things are so different I have to note them here. Lets start with the bad things, not that I like to complain, but it has to be said. First of all, stores are closed on Sunday! Like groceries and all. I have been taking it for granted to go buy food on my day off. No, not ok to do so anymore.
-Also, things are expensive here. Going out for dinner is a thing for the rich and shopping is narrowed to necessities. Living on the boarder with Switzerland influences the price of living.
-
-Now the good things, the landscapes here are amazing. I can see the Alps and the Jura mountains from work or while spending an evening by the Lake Geneva and it makes me enjoy my life here so much. The nature is really beautiful around here. It also generates infinite possibilities for hiking during weekends.
-
+Teď k těm pozitivům, okolí je tu neskutečné. Alpy vidím z okna mojí kanceláře, když jsem na cestě domů nebo když trávím volné chvíle u ženevského jezera a velice mi to zpříjemňuje dny. Když je vysoká viditelnost, vidím až na Mt. Blanc a pokaždý je to super pohled. Příroda je tu opravdu krásná. A navíc je tu nespočet možností kam se vydat na výlet o víkendu. 
 
 <figure>
         <a href="/assets/img/posts/cern1.JPG"><img src="/assets/img/posts/cern1.JPG"></a>
-        <figcaption>On top of Le Mol with views of Mont Blanc.</figcaption>
+        <figcaption>Na vrcholu hory Le Mol s výhledem na Mont Blanc.</figcaption>
 </figure>
 
-Well I started my life on the French/Swiss border working at the largest particle physics lab in the world and I am so happy I got this opportunity through my PhD. Thanks for reading!
+Takhle teda začíná můj život na francouzsko/švýcarské hranici a práce v největší laboratoři částicové fyziky na světě. Jsem ráda, že tu můžu být díky mému doktorantskému studiu. Díky že jste se stavili!
+

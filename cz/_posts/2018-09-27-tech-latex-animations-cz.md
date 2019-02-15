@@ -1,18 +1,14 @@
 ---
-layout: post
+layout: postcz
 title:  "Animace v LaTexu"
 date:   2018-09-11
-excerpt: "How to move your latex slides"
+excerpt: "Jak rozpohybovat prezentaci v latexu."
 techcz: true
-tag:
-- latex
-- physics
-- animations
 comments: true
 feature: /assets/img/posts/dog2.jpg
-i18n-link: ani-2-tr
 ---
 
+Animace a videa v prezentacích miluju. Pomůžou zjednodušit komplikovaný proces a udělají prezentaci záživnější. I v latexu se dají použít animace a já vám ukážu, jak to dělám já (existují ještě jiné postupy). Rozhodla jsem se podívat na animaci chování elektrických nábojů. 
 
 I love animations in presentations. They can make complex processes understandable while keeping the presentation entertaining. Lets look at this animation of electrical charges behaviour. It shows the attraction of positive / negative charge and the repulsion of a positive / positive charge. It is a known concept to many so I think if it is a bit fun looking, even the very knowledgable person can be at least amused.
 

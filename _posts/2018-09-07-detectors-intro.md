@@ -14,7 +14,7 @@ feature: /assets/img/posts/atlas.png
 ---
 
 Particle detectors - 
-I love detectors ! They can measure whatever you want them to measure and work in any kinds of conditions and have all sorts of applications. Or course there has always been a push for making better detectors - achieving higher resolution, longer lifetime, measuring as many things at once as possible, etc.
+I love detectors ! They can measure whatever you want them to measure and work in any kinds of conditions and have all sorts of applications. Of course there has always been a push for making better detectors - achieving higher resolution, longer lifetime, measuring as many things at once as possible, etc.
 
 During my graduate studies, I had a class on detectors in high energy physics and it was the best class ever. Thanks Dr. Vachon!
 
@@ -24,7 +24,7 @@ Ok lets start with a detector number one - bubble chamber:
 
 <a href="https://excitedpositron.github.io/detectors-bubble-chamber/" class="btn zoombtn">Bubble Chamber</a>
 
-Part number 2:
+Part number 2 - cloud chamber:
 <a href="https://excitedpositron.github.io/detectors-cloud-chamber/" class="btn zoombtn">Cloud Chamber</a>
 
 

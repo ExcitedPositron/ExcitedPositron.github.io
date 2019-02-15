@@ -1,30 +1,26 @@
 ---
-layout: post
+layout: postcz
 title:  "Animace"
 date:   2018-09-02
-excerpt: "Couple of my animations for your pleasure :)"
+excerpt: "Moje animace na jednom místě"
 techcz: true
-tag:
-- tech
-- inkscape
 comments: true
-i18n-link: ani-1-tr
 ---
 
-This page is a collection of my animations, made in inkscape. If you like any of them, use them as much as you like.
+Tahle stránka obsahuje všechny animace, co jsem kdy vytvořila. Jsou dělané v inkscape. Klidně je můžete použít kde chcete pro vědecké účely.
 
-Bubble Chamber:
+Bublinový detektor:
 
 <figure class="animated_gif_frame">
         <img src="/assets/img/posts/2018-09-09-bubble/bubblechamber.gif" />
 </figure>
 
 
-Electric charges attracting / repulsing each other:
+Elektrické náboje které se přitahují / odpuzují:
 
 <figure class="animated_gif_frame">
         <img src="/assets/img/posts/2018-10-22-particle/charged-particles.gif"  />
 </figure>
 
+Až udělám další, tak je sem taky přidám :)
 
-More animations will appear as I make them :)

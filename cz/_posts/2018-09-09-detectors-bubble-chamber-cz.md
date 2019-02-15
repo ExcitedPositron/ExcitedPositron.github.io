@@ -1,23 +1,20 @@
 ---
-layout: post
-title:  "Bubble chamber"
+layout: postcz
+title:  "Bublinková komora"
 date:   2018-09-09
-excerpt: "Did physicists go too far when they filled their detectors with beer?"
+excerpt: "Zašli fyzikové příliš daleko, když začali lít pivo do detektorů?"
 sciencecz: true
-tag:
-- detectors
-- physics
-- particles
 comments: true
 feature: /assets/img/posts/2018-09-09-bubble/bubble1.jpg
-i18n-link: bubble-tr
 ---
 
-### Bubble chamber facts
+### Fakta o bublinkové komoře
 
-* Invented when: 1952
-* Invented by: Donald A. Glaser
-* What it does: detects charged particles moving through the detector
+* Vyvinuto: 1952
+* Vynálezce: Donald A. Glaser
+* Co to dělá: detekuje elektricky nabité částice procházející skrz detektor
+
+Bublinková komora ja super cool technologie.  
 
 Bubble chambers are a really cool piece of technology. They allow us to observe elementary particles by eye (size of proton is about 1e-15 m). Even though we can't actually see the particle, we can see its trajectory. Bubble chamber (used in a magnetic field) can measure the particle's speed, mass and charge. 
 

@@ -1,0 +1,56 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html class="no-js" lang="{{ page.lang }}">
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+  {% include head.html %}
+  {% for postTrans in postsTrans %}
+  <link rel="alternate" hreflang="{{ postTrans.lang }}" href="{{ site.base-url }}{{ postTrans.url }}"/>
+  {% endfor %}
+</head>
+  <body>
+    {% include navcz.html %}
+    <!-- Header -->
+    <header class="header" role="banner">
+      <div class="wrapper animated fadeIn">
+        <div class="content">
+          <!--div class="post-title {% if page.feature %} feature {% endif %}"-->
+	  <div class="cover-banner {% if page.feature %} feature {% endif %}">
+            <h1>{{ page.title }}</h1>
+            <h4>{{ page.date | date_to_string }}</h4>
+	    {% if page.sciencecz %}
+	    <a class="btn zoombtn" href="{{site.url}}/cz/sciencecz/"><i class="fa fa-chevron-left"></i></a>
+	    {% endif %}
+	    {% if page.lifecz %}
+	    <a class="btn zoombtn" href="{{site.url}}/cz/lifecz/"><i class="fa fa-chevron-left"></i></a>
+	    {% endif %}
+	    {% if page.techcz %}
+	    <a class="btn zoombtn" href="{{site.url}}/cz/techcz/"><i class="fa fa-chevron-left"></i></a>
+	    {% endif %}
+            {% if page.postscz %}
+            <a class="btn zoombtn" href="{{site.url}}/cz/postscz/"><i class="fa fa-chevron-left"></i></a>
+            {% endif %}
+	  </div>
+	  
+	  {{ content }}
+	  
+	  <div class="entry-meta">
+	    {% include meta.html %}
+	  </div>
+	</div>
+      </div>
+      {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
+    </header>
+    {% include scripts.html %}
+    {% if site.mathjax == true %}
+    <!-- MathJax -->
+    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
+  </body>
+</html>

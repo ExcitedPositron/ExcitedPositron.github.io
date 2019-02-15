@@ -9,7 +9,7 @@ tag:
 - physics
 - animations
 comments: true
-feature: /assets/img/posts/pres2.jpg
+feature: /assets/img/posts/pres1.jpg
 i18n-link: ani-2-tr
 ---
 

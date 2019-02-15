@@ -8,7 +8,7 @@ tag:
 - latex
 - physics
 comments: true
-feature: /assets/img/posts/comp.png
+feature: /assets/img/posts/comp4.jpg
 i18n-link: bullet-tr
 ---
 
@@ -61,6 +61,6 @@ To use it multiple times in your document, you will have to include the [label= 
 I use number 93 in all of my presentations these days. As I have it saved in my basic presentation layout, I don't need to remember all this or search on google every time I make a presentation, my bullet points always come out as pretty flowers (but still quite subtle). I hope you enjoy them as much as I do :)
 
 <figure>
-        <img src="/assets/img/posts/pres.png"></a>
-        <figcaption>Example of my presentation.</figcaption>
+        <img src="/assets/img/posts/pres.png">
+        <figcaption> Example of my presentation. </figcaption>
 </figure>

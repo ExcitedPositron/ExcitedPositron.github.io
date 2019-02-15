@@ -8,7 +8,7 @@ tag:
 - tech
 - inkscape
 comments: true
-i18n-link: ani-1-tr
+feature: /assets/img/posts/dogleg.png
 ---
 
 This page is a collection of my animations, made in inkscape. If you like any of them, use them as much as you like.
@@ -24,6 +24,12 @@ Electric charges attracting / repulsing each other:
 
 <figure class="animated_gif_frame">
         <img src="/assets/img/posts/2018-10-22-particle/charged-particles.gif"  />
+</figure>
+
+Dog tail wagging :)
+
+<figure class="animated_gif_frame">
+        <img src="/assets/img/posts/animations/dogleg.gif"  />
 </figure>
 
 

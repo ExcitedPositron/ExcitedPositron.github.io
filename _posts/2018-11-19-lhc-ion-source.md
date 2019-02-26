@@ -21,7 +21,7 @@ Lead is put into an oven, heated to 800°C and vaporised. During stable beam con
 
 What are physicists hoping to achieve by colliding lead ions? 
 
-When our universe was very young (10−12 - 10−6 seconds after the Big Bang, also called the quark epoch), it was very dense and very hot - a state called the quark-gluon plasma. The particles present were quarks, leptons and their antiparticles. By colliding ions, we can recreate this quark-gluon plasma and study this period when the fundamental forces such as gravitation, electromagnetism, strong and weak interactions as we know them now emerged.
+When our universe was very young (10<sup>−12</sup> - 10<sup>−6</sup> seconds after the Big Bang, also called the quark epoch), it was very dense and very hot - a state called the quark-gluon plasma. The particles present were quarks, leptons and their antiparticles. By colliding ions, we can recreate this quark-gluon plasma and study this period when the fundamental forces such as gravitation, electromagnetism, strong and weak interactions as we know them now emerged.
 
 
 {% include subscribe.html %}

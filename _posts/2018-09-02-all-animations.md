@@ -34,3 +34,5 @@ Dog tail wagging :)
 
 
 More animations will appear as I make them :)
+
+{% include subscribe.html %}

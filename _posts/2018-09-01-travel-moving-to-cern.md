@@ -4,15 +4,8 @@ title:  "CERN - moving in longterm"
 date:   2018-09-01
 excerpt: "The big move to CERN."
 life: true
-tag:
-- CERN
-- physics
-- particles
-- accelerators
-- travel
 comments: true
 feature: /assets/img/posts/cern2.jpg
-i18n-link: cern-1-tr
 ---
 
 Moving to CERN didn't seem like a big deal to me in the first instant. It is just living in a new country and I have done that many times over the past few years, so it shouldn't be so hard, right? Well I am here for over a month now and few of my plants haven't yet recovered from the move. One of them died already.
@@ -29,3 +22,6 @@ Now the good things, the landscapes here are amazing. I can see the Alps and the
 </figure>
 
 Well I started my life on the French/Swiss border working at the largest particle physics lab in the world and I am so happy I got this opportunity through my PhD. Thanks for reading!
+
+
+{% include subscribe.html %}

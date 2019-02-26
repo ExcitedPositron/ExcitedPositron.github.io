@@ -46,3 +46,6 @@ When our universe was very young (10−12 - 10−6 seconds after the Big Bang, a
 
 
 By colliding ions, we can recreate this quark-gluon plasma and study this period when the fundamental forces such as gravitation, electromagnetism, strong and weak interactions as we know them now emerged.
+
+
+{% include subscribe.html %}

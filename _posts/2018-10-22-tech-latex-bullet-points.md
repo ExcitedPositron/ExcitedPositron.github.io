@@ -64,3 +64,6 @@ I use number 93 in all of my presentations these days. As I have it saved in my 
         <img src="/assets/img/posts/pres.png">
         <figcaption> Example of my presentation. </figcaption>
 </figure>
+
+{% include subscribe.html %}
+

@@ -32,3 +32,4 @@ How does it work? A sealed chamber contains a supersaturated vaper of (most comm
 These days, cloud chambers are mostly used in teaching physics, not so much in active research anymore. The negative of this technology is the precision and recording of particle tracks. The only way to record particle tracks with cloud chamber is to take a photograph of the trail and then analyze it visually. Modern detectors can record the electronic signal and store it with much better precision. However, cloud chambers served to a great advancement of particle physics and are a very cool technology.
 
 
+{% include subscribe.html %}

@@ -54,3 +54,4 @@ This is the resulting animation, showing opposite charges attract and same charg
         <img src="/assets/img/posts/2018-10-22-particle/charged-particles.gif" />
 </figure>
 
+{% include subscribe.html %}
